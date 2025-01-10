@@ -1,2 +1,2 @@
-# map_merging
+# Map_merging
 Robust Map Merging for Multi-Robot Monocular SLAM
